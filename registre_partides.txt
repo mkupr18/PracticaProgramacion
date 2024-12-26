@@ -1,0 +1,35 @@
+Partida 1 (2024-12-26 14:44:18). Mode /Tot sol/, 10x10, 5-4-3-3-2.
+- Jugador: /a/ (guanyador/a):
+- 0 dispars a vaixells enfonsats
+0 dispars a vaixells tocats no enfonsats
+0 dispars a l'aigua
+
+
+Partida 1 (2024-12-26 14:58:57). Mode /Tot sol/, 10x10, 5-4-3-3-2.
+- Jugador: /Maria Antonia/ (guanyador/a):
+- 0 dispars a vaixells enfonsats
+0 dispars a vaixells tocats no enfonsats
+0 dispars a l'aigua
+
+
+Partida 2 (2024-12-26 15:00:15). Mode /Tot sol/, 10x10, 5-4-3-3-2.
+- Jugador: /Maria Antonia/ (guanyador/a):
+- 5 dispars a vaixells enfonsats
+12 dispars a vaixells tocats no enfonsats
+3 dispars a l'aigua
+
+
+Partida 1 (2024-12-26 15:01:17). Mode /Tot sol/, 10x10, 5-4-3-3-2.
+- Jugador: /Maria Antonia/ (guanyador/a):
+- 0 dispars a vaixells enfonsats
+0 dispars a vaixells tocats no enfonsats
+0 dispars a l'aigua
+
+
+Partida 2 (2024-12-26 15:01:59). Mode /Tot sol/, 10x10, 5-4-3-3-2.
+- Jugador: /Maria Antonia/ (guanyador/a):
+- 5 dispars a vaixells enfonsats
+12 dispars a vaixells tocats no enfonsats
+1 dispars a l'aigua
+
+
